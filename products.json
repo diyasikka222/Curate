@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Sooji",
+        "price": 21,
+        "image": "images/suji.png"
+    },
+    {
+        "id": 2,
+        "name":" Arhar Dal",
+        "price": 368,
+        "image": "images/arhar.png"
+    },
+    {
+        "id": 3,
+        "name":" Besan",
+        "price": 24,
+        "image": "images/besan.png"
+    },
+    {
+        "id": 4,
+        "name":" Chana",
+        "price": 1906,
+        "image": "images/chana.png"
+    },
+    {
+        "id": 5,
+        "name":" Chole",
+        "price": 300,
+        "image": "images/chole.png"
+    },
+    {
+        "id": 6,
+        "name":"Maa ki Dal",
+        "price": 20,
+        "image": "images/maadal.png"
+    },
+    {
+        "id": 7,
+        "name":" Rajma",
+        "price": 400,
+        "image": "images/rajma.png"
+    },
+    {
+        "id": 8,
+        "name":" Seeds",
+        "price": 195,
+        "image": "images/seeds.png"
+    }
+
+]

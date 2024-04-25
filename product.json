@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Bottle",
+        "price": 21,
+        "image": "images/bottle.png"
+    },
+    {
+        "id": 2,
+        "name":" Cup",
+        "price": 368,
+        "image": "images/cup.png"
+    },
+    {
+        "id": 3,
+        "name":" Nibbler",
+        "price": 24,
+        "image": "images/nibbler.png"
+    },
+    {
+        "id": 4,
+        "name":" Handkerchief",
+        "price": 1906,
+        "image": "images/handkerchief.png"
+    },
+    {
+        "id": 5,
+        "name":" Nibbler",
+        "price": 300,
+        "image": "images/nibbler.png"
+    },
+    {
+        "id": 6,
+        "name":" Pampers",
+        "price": 20,
+        "image": "images/pampers.png"
+    },
+    {
+        "id": 7,
+        "name":" Shampoo",
+        "price": 400,
+        "image": "images/shampoo.png"
+    },
+    {
+        "id": 8,
+        "name":" Soap",
+        "price": 195,
+        "image": "images/soap.png"
+    }
+
+]
